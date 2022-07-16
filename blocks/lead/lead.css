@@ -1,0 +1,14 @@
+.lead {
+  max-width: 984px;
+  margin: 0;
+  padding: 0;
+  margin-top: 56px;
+  display: grid;
+  grid-template-columns: 984px;
+  grid-template-rows: 200px 32px 72px 64px 615px 8px 14px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px rgb(235, 14, 14) solid;
+  text-align: center;
+  margin-bottom: 92px;
+  }

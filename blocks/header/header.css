@@ -1,0 +1,14 @@
+.header {
+    height: 52px;
+    max-width: 1124px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-self: center;
+    justify-content: space-between;
+    background-color:  #2c2c2c;
+    overflow: hidden;
+    border: 1px rgb(235, 14, 14) solid;
+    margin-left: auto;
+    margin-right: auto;
+  }
