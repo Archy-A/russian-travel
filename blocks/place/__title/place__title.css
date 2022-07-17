@@ -1,0 +1,16 @@
+.place__title {
+  grid-column: col / span 2;
+  grid-row: row;
+  max-width: 460px;
+  max-height: 152px;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  color: white;
+  margin-bottom: 48px;
+  }
+

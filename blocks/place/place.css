@@ -1,0 +1,16 @@
+.place {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: repeat(2, 1fr) ;
+  grid-template-rows: repeat(2, 1fr);
+  color: rgb(255, 255, 255);
+  min-height: 100%;
+  box-sizing: border-box;
+  align-items: flex-end;
+  margin-left: 0;
+
+  border: 4px rgb(235, 14, 21) solid;
+  }
+
