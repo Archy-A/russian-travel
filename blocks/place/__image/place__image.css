@@ -5,7 +5,10 @@
   max-height: 460px;
   object-fit: cover;
   margin-right: 40px;
+  align-self: flex-start;
+  vertical-align: top;
+  padding-top: 48px;
 
-
+  border: 2px rgb(235, 14, 14) solid;
 
 }

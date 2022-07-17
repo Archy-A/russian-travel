@@ -16,5 +16,8 @@
 
   align-self: flex-start;
 
+  padding-top: 48px;
+
+  border: 2px rgb(235, 14, 14) solid;
   }
 

@@ -1,23 +1,25 @@
 .place__website {
   max-width: 466px;
   max-height: 100%;
-
   grid-column: col 3 / span 2;
   grid-row: row;
   display: grid;
   grid-gap: 0px;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr;
-
   margin: 0;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  color: white;
   text-decoration: none;
 
-  margin-bottom: 48px;
+  align-self: flex-end;
+  justify-content: end;
+  justify-items: end;
+  align-self: flex-end;
+
+  border: 2px rgb(235, 14, 14) solid;
 
   }
