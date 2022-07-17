@@ -9,9 +9,11 @@
   font-size: 72px;
   line-height: 76px;
   text-align: center;
-  margin-top: 245px;
+  /* margin-top: 245px; */
   margin-left: 360px;
   position: absolute;
   margin-left: auto;
   margin-right: auto;
+  align-self: center;
+  margin-bottom: 50px;
 }

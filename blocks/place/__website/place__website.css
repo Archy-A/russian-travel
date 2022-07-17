@@ -14,12 +14,8 @@
   font-size: 18px;
   line-height: 22px;
   text-decoration: none;
-
   align-self: flex-end;
   justify-content: end;
   justify-items: end;
   align-self: flex-end;
-
-  border: 2px rgb(235, 14, 14) solid;
-
   }

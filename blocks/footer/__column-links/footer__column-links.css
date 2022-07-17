@@ -1,6 +1,7 @@
 .footer__column-links {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 16px;
-    font-weight: normal;
-  }
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  max-width: 1184px;
+  max-height: 18px;
+}

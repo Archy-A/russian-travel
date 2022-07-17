@@ -1,15 +1,11 @@
 .footer__column-link {
-    display: flex;
-    flex-direction: row;
-    margin-bottom: 0px;
-    font-size: 18px;
-    font-weight: normal;
-    line-height: 30px;
+  color: rgb(255, 255, 255);
     color: #fff;
     text-decoration: none;
-    transition: 0.5s; 
+    transition: 0.5s;
+    margin-right: 18px;
   }
-  
+
 .footer__column-link:hover {
     opacity: 0.8;
     transition: 0.5s;

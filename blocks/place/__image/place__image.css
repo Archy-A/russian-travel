@@ -3,16 +3,11 @@
   grid-row: row 2;
   max-width: 460px;
   max-height: 460px;
-
   min-width: auto;
   min-height: auto;
-
   object-fit: cover;
   margin-right: 40px;
   align-self: flex-start;
   vertical-align: top;
   padding-top: 48px;
-
-  border: 2px rgb(235, 14, 14) solid;
-
 }
