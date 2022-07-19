@@ -4,7 +4,6 @@
     transition: 0.5s;
     justify-content: center;
     margin-left: 18px;
-    border: 1px rgb(33, 235, 14) solid;
   }
 
 .header__lang-link:hover {

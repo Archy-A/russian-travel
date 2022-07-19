@@ -12,4 +12,10 @@
   margin: 0;
   padding: 0;
   text-decoration-line: underline;
+  transition: 0.5s;
+}
+
+.place__link:hover {
+  opacity: 0.5;
+  transition: 0.5s;
 }
