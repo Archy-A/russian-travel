@@ -2,12 +2,10 @@
   max-width: 984px;
   max-height: 100%;
   margin-top: 0;
-  margin-left: 148px;
   padding-top: 0;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: repeat(auto-fit, 1fr);
-  color: rgb(255, 255, 255);
   min-height: 100%;
   box-sizing: border-box;
   gap: 40px;
@@ -27,21 +25,15 @@
   .places {
     margin-left: 24px;
     margin-right: 24px;
-    max-width: 720px;
-    max-height: 100%;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 550px) {
   .places {
     display: flex;
-    /* justify-content: space-between; */
     flex-direction: column;
     max-width: 100%;
     max-height: 100%;
-    /* margin: auto;
-    flex-wrap: wrap; */
-    border: 1px rgb(235, 14, 14) solid;
     margin-left: 0px;
     margin-right: 0px;
   }

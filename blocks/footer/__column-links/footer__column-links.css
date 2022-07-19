@@ -6,7 +6,7 @@
   max-height: 18px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 550px) {
   .footer__column-links {
     max-height: 100%;
     flex-direction: column;

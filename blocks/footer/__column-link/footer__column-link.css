@@ -11,7 +11,7 @@
     transition: 0.5s;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 550px) {
   .footer__column-link {
     margin-bottom: 32px;
   }
