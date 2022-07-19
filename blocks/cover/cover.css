@@ -30,3 +30,11 @@
     margin-right: 0px;
   }
 }
+
+
+@media screen and (max-width: 768px) {
+  .cover {
+    margin-bottom: 88px;
+    margin-top: 90px;
+  }
+}

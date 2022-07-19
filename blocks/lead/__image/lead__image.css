@@ -14,11 +14,3 @@
   opacity: 0.8;
   transition: 0.5s;
 }
-
-/* @media screen and (max-width: 1024px) {
-  .root {
-    max-width: 928px;
-    max-height: 580px;
-  }
-} */
-

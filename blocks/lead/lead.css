@@ -11,10 +11,12 @@
   margin-left: 148px;
   margin-right: 148px;
 
+  border: 1px rgb(235, 14, 14) solid;
+
   }
 
 
-  @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     .lead {
       margin-left: 48px;
       margin-right: 48px;
@@ -22,4 +24,27 @@
       max-height: 962px;
     }
 }
+
+@media screen and (max-width: 768px) {
+  .lead {
+    margin-left: 48px;
+    margin-right: 48px;
+    max-width: 768px;
+    max-height: 862px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead {
+    max-width: 320px;
+    max-height: 100%;
+    margin-left: -2px;
+    margin-right: -2px;
+    margin-bottom: 64px;
+  }
+}
+
 

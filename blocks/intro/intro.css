@@ -7,22 +7,29 @@
   flex-direction: column;
   margin-bottom: 92px;
   position: relative;
-  /* justify-self: left;
-  align-self: flex-start;
-  justify-self: left;
-  justify-content: left;
-  align-content:flex-start;
-  margin-right: auto;
-  margin-left: calc( 100% * 0.115625 ); */
   margin-left: 148px;
   margin-right: 148px;
-
-  border: 3px rgb(14, 235, 51) solid;
   }
 
-  @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     .intro {
       margin-left: 48px;
       margin-right: 48px;
     }
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro {
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 64px;
+  }
 }
