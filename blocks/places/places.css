@@ -5,7 +5,7 @@
   padding-top: 0;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(auto-fit, 1fr);
+  grid-template-rows: repeat(auto-fit, minmax(10px, max-content));
   min-height: 100%;
   box-sizing: border-box;
   gap: 40px;
