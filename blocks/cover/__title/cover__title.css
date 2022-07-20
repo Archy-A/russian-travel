@@ -9,11 +9,12 @@
   font-size: 72px;
   line-height: 76px;
   text-align: center;
-  position: absolute;
-  margin-left: auto;
-  margin-right: auto;
   align-self: center;
-  margin-bottom: 50px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 32px;
+  min-width: 560px;
+  min-height: 152px;
 }
 
 @media screen and (max-width: 550px) {
