@@ -1,6 +1,6 @@
 .place__title {
-  grid-column: col / span 2;
-  grid-row: row;
+  /* grid-column: col / span 2; */
+  /* grid-row: row; */
   max-width: 460px;
   min-height: 100%;
   margin: 0;
