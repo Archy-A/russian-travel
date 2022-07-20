@@ -16,6 +16,10 @@
   max-height: 100%;
 }
 
+.intro__list span {
+  font-weight: normal;
+ }
+
 @media screen and (max-width: 550px) {
   .intro__list {
     margin-top: 34px;
