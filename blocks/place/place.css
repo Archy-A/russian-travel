@@ -11,6 +11,13 @@
   box-sizing: border-box;
   }
 
+  @media screen and (max-width: 1024px) {
+    .place {
+      grid-template-columns: 0.97fr 1fr;
+      gap: 48px 32px;
+    }
+  }
+
   @media screen and (max-width: 768px) {
     .place {
       margin-bottom: 73px;

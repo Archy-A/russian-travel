@@ -8,4 +8,8 @@
     background-position: center;
   }
 
-
+  @media screen and (max-width: 1024px) {
+    .cover__background {
+      max-height: 640px;
+    }
+  }
