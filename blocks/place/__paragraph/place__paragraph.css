@@ -1,6 +1,4 @@
 .place__paragraph {
-  max-width: 100%;
-  max-height: 100%;
   margin: 0;
   padding: 0;
   border: 0;
@@ -9,6 +7,7 @@
   font-size: 18px;
   line-height: 163%;
   color: white;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   }
 
   .place__paragraph:not(:last-of-type) {
@@ -17,10 +16,6 @@
 
   @media screen and (max-width: 550px) {
     .place__paragraph {
-      max-width: 100%;
-      max-height: 100%;
-      padding: 0;
-      margin: 0;
       padding-left: 16px;
       padding-right: 16px;
       padding-bottom: 18px;

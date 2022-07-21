@@ -9,6 +9,7 @@
   line-height: 100px;
   text-align: center;
   margin-bottom: 32px;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
 
 @media screen and (max-width: 768px) {
