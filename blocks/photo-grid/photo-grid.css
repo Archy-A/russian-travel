@@ -4,9 +4,10 @@
   grid-template-columns: repeat(auto-fit, minmax(284px, max-content));
   gap: 16px;
   margin-top: 56px;
-  margin-bottom: 92px;
+  margin-bottom: 97px;
   margin-left: 48px;
   margin-right: 48px;
+  object-fit: fill;
   }
 
   @media screen and (max-width: 768px) {
