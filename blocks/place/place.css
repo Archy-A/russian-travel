@@ -7,7 +7,6 @@
   grid-template-areas:
   "place__title place__website"
   "place__image place__paragraph";
-  min-height: 640px;
   gap: 48px 40px;
   box-sizing: border-box;
   }
@@ -22,10 +21,6 @@
     .place {
       display: flex;
       flex-direction: column;
-      max-width: 100%;
-      max-height: 100%;
-      padding: 0;
-      margin: 0;
     }
   }
 

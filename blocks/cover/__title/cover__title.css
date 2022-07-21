@@ -1,6 +1,5 @@
 .cover__title {
   max-width: 560px;
-  max-height: 152px;
   color: white;
   z-index: 2;
   font-family: 'Inter';
@@ -25,9 +24,6 @@
     padding: 0;
     margin-left: 16px;
     margin-right: 16px;
-    text-align: center;
-    position: absolute;
-    align-self: flex-start;
     margin-top: 33px;
     padding-left: 18px;
     padding-right: 18px;

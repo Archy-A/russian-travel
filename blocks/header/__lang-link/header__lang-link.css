@@ -4,9 +4,9 @@
     transition: 0.5s;
     justify-content: center;
     margin-left: 18px;
+    transition: 0.5s;
   }
 
 .header__lang-link:hover {
-    opacity: 0.5;
-    transition: 0.5s;
+    opacity: 0.8;
 }
