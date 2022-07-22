@@ -52,9 +52,11 @@
   }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 320px) {
   .cover {
     margin-bottom: 64px;
     margin-top: 68px;
+    min-width: 320px;
+    min-height: 200px;
   }
 }

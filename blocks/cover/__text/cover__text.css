@@ -3,8 +3,6 @@
   z-index: 3;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   margin-left: auto;
   margin-right: auto;
   justify-content: center;
@@ -14,3 +12,13 @@
   justify-items: center;
   font-family: "Inter-reg", "Arial", sans-serif;
 }
+
+@media screen and (max-width: 320px) {
+  .cover__text {
+    /* padding-left: 160px;
+    padding-right: 160px; */
+    max-width: 288px;
+    /* max-height: 10px; */
+  }
+}
+

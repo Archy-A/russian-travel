@@ -24,10 +24,11 @@
     }
   }
 
-  @media screen and (max-width: 550px) {
+  @media screen and (max-width: 320px) {
     .place {
       display: flex;
       flex-direction: column;
+      gap: 32px;
     }
   }
 
