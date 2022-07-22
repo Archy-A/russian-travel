@@ -37,14 +37,18 @@
   .cover {
     margin-left: 0px;
     margin-right: 0px;
-    margin-top: 40px;
+    margin-top: 92px;
+    min-width: 1024px;
+    min-height: 640px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover {
     margin-bottom: 88px;
-    margin-top: 90px;
+    margin-top: 99px;
+    min-width: 768px;
+    min-height: 480px;
   }
 }
 
