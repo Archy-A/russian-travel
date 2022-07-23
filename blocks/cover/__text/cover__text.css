@@ -15,10 +15,7 @@
 
 @media screen and (max-width: 320px) {
   .cover__text {
-    /* padding-left: 160px;
-    padding-right: 160px; */
     max-width: 288px;
-    /* max-height: 10px; */
   }
 }
 

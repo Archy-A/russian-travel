@@ -1,14 +1,9 @@
 .cover {
   color: white;
   margin: 0 auto;
-  min-width: 1024px;
-  min-height: 740px;
-  margin-top: 87px;
   position: relative;
   display: flex;
   flex-direction: column;
-  margin-left: 48px;
-  margin-right: 48px;
   justify-content: center;
   align-items: center;
   justify-items: center;
@@ -33,6 +28,29 @@
 
 }
 
+@media screen and (max-width: 8000px) {
+  .cover {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 87px;
+    min-width: 1024px;
+    min-height: 740px;
+    max-width: 1184px;
+
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .cover {
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-top: 87px;
+    min-width: 1024px;
+    min-height: 740px;
+
+  }
+}
+
 @media screen and (max-width: 1024px) {
   .cover {
     margin-left: 0px;
@@ -49,6 +67,14 @@
     margin-top: 99px;
     min-width: 768px;
     min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .cover {
+    margin-bottom: 88px;
+    margin-top: 99px;
+    min-width: 100%;
   }
 }
 
