@@ -1,6 +1,6 @@
 .cover__text {
-  position: absolute;
-  z-index: 3;
+  /* position: absolute; */
+  /* z-index: 3; */
   display: flex;
   flex-direction: column;
   margin-left: auto;

@@ -9,7 +9,7 @@
     opacity: 0.8;
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 767px) {
   .footer__column-link {
     margin-bottom: 32px;
   }

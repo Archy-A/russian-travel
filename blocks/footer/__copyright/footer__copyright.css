@@ -4,7 +4,7 @@
   font-family: "Inter-reg", "Arial", sans-serif;
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 768px) {
   .footer__copyright {
     margin-top: 10px;
     font-size: 14px;
