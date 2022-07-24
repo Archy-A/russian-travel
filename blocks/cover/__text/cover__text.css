@@ -13,10 +13,10 @@
   font-family: "Inter-reg", "Arial", sans-serif;
 }
 
-/* @media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .cover__text {
     max-width: 288px;
     max-height: 200px;
   }
-} */
+}
 

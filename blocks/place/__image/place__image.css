@@ -22,7 +22,7 @@
   .place__image {
     max-width: 340px;
     max-height: 340px;
-    margin-right: 28px;
+    margin-right: 0;
     align-self: center;
   }
 }
