@@ -19,26 +19,14 @@
   min-height: 152px;
 }
 
-/* @media screen and (max-width: 400px) {
+@media screen and (max-width: 320px) {
   .cover__title {
-    min-width: 100%;
-    max-width: 100%;
-  }
-}  */
-
-/* @media screen and (max-width: 767px) {
-  .cover__title {
+    font-weight: 900;
     font-size: 32px;
     line-height: 35px;
-    min-width: 250px;
-    min-height: 10px;
-    margin-left: 16px;
-    margin-right: 16px; */
-    /* margin-top: 33px; */
-    /* margin-bottom: 16px;
-    padding-left: 25px;
-    padding-right: 25px; */
+    margin-bottom: 16px;
+    min-width: 288px;
+    min-height: 70px;
+  }
+}
 
-    /* border: 3px rgb(235, 14, 14) solid; */
-  /* }
-} */
