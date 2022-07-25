@@ -1,5 +1,5 @@
 .cover__text {
-  position: absolute;
+  /* position: absolute;
   display: flex;
   flex-direction: column;
   margin-left: auto;
@@ -8,14 +8,14 @@
   justify-self: center;
   align-self: center;
   align-items: center;
-  justify-items: center;
+  justify-items: center; */
   font-family: "Inter-reg", "Arial", sans-serif;
 }
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
   .cover__text {
     max-width: 288px;
     max-height: 200px;
   }
-}
+} */
 
