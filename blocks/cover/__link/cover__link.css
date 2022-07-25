@@ -3,20 +3,18 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
+  min-height: 640px;
   background-image: url("../../../images/cover-trains.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   box-sizing: border-box;
-  padding: 195px;
   text-decoration: none;
   color: white;
-  max-height: 740px;
-  max-width: 1184px;
+  padding-top: 195px;
   z-index: 0;
   position: relative;
-  align-self: center;
-  margin: auto;
+
 }
 
 .cover__link::before {
@@ -37,102 +35,3 @@
 
 }
 
-
-  @media screen and (max-width: 768px) {
-    .cover__link {
-      padding: 115px;
-      min-height: 480px;
-      max-height: 480px;
-    }
-  }
-
-
-
-/* display: flex;
-text-decoration: none;
-flex-direction: column;
-justify-content: center;
-align-items: center; */
-/* min-height: 200px; */
-/* background-image: url(../../../images/cover-trains.jpg);
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
-box-sizing: border-box;
-color: white;
-z-index: 0;
-position: relative; */
-/* padding: 370px 592px;
-max-width: 1184px;
-max-height: 740px; */
-
-/* border: 1px rgb(0, 217, 255) solid; */
-}
-
-/* .cover__link::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #2A2C2F;
-  opacity: 0.3;
-  z-index: -1;
-  transition: opacity 0.3s ease;
-} */
-
-/* @media screen and (max-width: 8000px) {
-  .cover__link {
-    padding: 370px 592px;
-    max-width: 1184px;
-    max-height: 740px;
-    border: 1px rgb(220, 14, 235) solid;
-  }
-} */
-
-/* @media screen and (max-width: 1280px) {
-  .cover__link {
-    padding: 370px 592px;
-    min-width: fit-content;
-    min-height: fit-content;
-    border: 1px rgb(220, 14, 235) solid;
-  }
-} */
-
-/* @media screen and (max-width: 1280px) {
-  .cover__link {
-    padding: 370px;
-    border: 1px rgb(235, 14, 209) solid;
-    align-self: center;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .cover__link {
-    padding: 320px;
-    border: 1px rgb(14, 235, 29) solid;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .cover__link {
-    padding: 240px;
-    border: 1px rgb(235, 14, 14) solid;
-  }
-}
-
-@media screen and (max-width: 470px) {
-  .cover__link {
-    padding: 150px 200px;
-    align-self: center;
-    border: 1px rgb(55, 14, 235) solid;
-  }
-}
-
-@media screen and (max-width: 469px) {
-  .cover__link {
-    padding: 100px 160px;
-    align-self: center;
-  }
-} */
