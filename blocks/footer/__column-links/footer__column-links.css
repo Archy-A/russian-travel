@@ -7,7 +7,7 @@
   font-family: "Inter-reg", "Arial", sans-serif;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__column-links {
     flex-direction: column;
   }
