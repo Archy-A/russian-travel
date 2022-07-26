@@ -9,6 +9,9 @@
   margin-right: 148px;
   color: rgb(255, 255, 255);
   font-style: normal;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   }
 
   @media screen and (max-width: 8000px) {
@@ -43,7 +46,7 @@
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 617px) {
   .lead {
     margin-bottom: 64px;
     margin-left: auto;
