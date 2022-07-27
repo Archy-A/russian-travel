@@ -34,7 +34,5 @@
 @media screen and (max-width: 617px) {
   .lead {
     margin-bottom: 64px;
-    margin-left: auto;
-    margin-right: auto;
   }
 }

@@ -12,11 +12,6 @@
   max-width: 100%;
 }
 
-.intro__list span {
-  font-family: "Inter", "Arial", sans-serif;
-  font-weight: 400;
- }
-
 @media screen and (max-width: 550px) {
   .intro__list {
     margin-top: 34px;

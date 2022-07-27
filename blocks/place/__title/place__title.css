@@ -11,14 +11,6 @@
   align-self: flex-start;
   }
 
-  @media screen and (max-width: 1024px) {
-    .place__title {
-      font-style: normal;
-      font-size: 72px;
-      line-height: 76px;
-    }
-  }
-
   @media screen and (max-width: 768px) {
     .place__title {
       max-width: 340px;
