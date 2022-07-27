@@ -6,22 +6,3 @@
   margin-left: auto;
   margin-right: auto;
 }
-
-/* @media screen and (max-width: 1024px) {
-  .lead__image {
-    max-width: 928px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .lead__image {
-    max-width: 768px;
-  }
-}
-
-
-@media screen and (max-width: 617px) {
-  .lead__image {
-    max-width: 320px;
-  }
-} */

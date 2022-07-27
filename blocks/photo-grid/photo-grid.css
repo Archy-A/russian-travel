@@ -20,6 +20,7 @@
   @media screen and (max-width: 1024px) {
     .photo-grid {
       margin-bottom: 92px;
+      gap: 14px;
     }
   }
 
@@ -28,6 +29,7 @@
       margin-left: 24px;
       margin-right: 24px;
       margin-bottom: 79px;
+      gap: 16px;
     }
   }
 
