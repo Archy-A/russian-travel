@@ -1,13 +1,12 @@
 .intro__list {
   margin: 0;
   padding: 0;
+  list-style: outside none none;
   color: white;
-  font-family: "Inter-bold", "Arial", sans-serif;
-  font-style: normal;
+  font-family: "Inter", "Arial", sans-serif;
   font-weight: 700;
   font-size: 12px;
   line-height: 18px;
-  list-style: outside none none;
   margin-top: 33px;
   max-width: 100%;
 }
